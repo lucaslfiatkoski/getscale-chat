@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761653568929,
+      "tag": "0000_aspiring_dakota_north",
+      "breakpoints": true
+    }
+  ]
+}
